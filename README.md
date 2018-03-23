@@ -1,3 +1,3 @@
 # Contracts 
 
-Contracts of Clean Architecture for PHP.
+Foundational contracts of [Clean Architecture for PHP](https://github.com/php-cleanliness).
