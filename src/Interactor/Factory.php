@@ -5,14 +5,14 @@ namespace Cleanliness\Contracts\Interactor;
 use Cleanliness\Contracts\IO\Input\InputBag;
 
 /**
- * Interactor factory contract.
+ * Use case interactor factory contract.
  *
  * @package \Cleanliness\Contracts\Interactor
  */
 interface Factory
 {
     /**
-     * Create an interactor instance of given type with given input bag.
+     * Create a use case interactor instance of given type with given input bag.
      *
      * @param  string  $type
      * @param  \Cleanliness\Contracts\IO\Input\InputBag  $input

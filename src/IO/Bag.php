@@ -17,7 +17,7 @@ interface Bag
     public function all(): array;
 
     /**
-     * Determin if the bag contains given item.
+     * Determine if the bag contains item of given name.
      *
      * @param  string  $name
      * @return bool

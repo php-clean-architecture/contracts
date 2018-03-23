@@ -3,7 +3,7 @@
 namespace Cleanliness\Contracts\Interactor;
 
 /**
- * Interactor interactor exception contract.
+ * Use case interactor exception contract.
  *
  * @package \Cleanliness\Contracts\Interactor
  */
