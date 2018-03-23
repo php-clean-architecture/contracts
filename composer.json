@@ -1,0 +1,21 @@
+{
+    "name": "cleanliness/contracts",
+    "description": "Foundational contracts of Clean Architecture for PHP",
+    "keywords": ["clean", "architecture", "contracts", "php"],
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vinter Skogen",
+            "email": "vinter.skogen@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": "~7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cleanliness\\Contracts\\": "src/"
+        }
+    }
+}
